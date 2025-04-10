@@ -32,9 +32,9 @@ go run main.go
 
 ## Project Structure
 
-- `gpt/` - Core interfaces and types
+- `gpt/`
   - `gpt.go` - Main GPT interface and types
-  - `openai/` - OpenAI implementation
+  - `openai/`
     - `openai.go` - OpenAI client implementation
 
 ## Features
